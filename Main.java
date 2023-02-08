@@ -3,7 +3,7 @@ public class Main {
         Persona usuario1 = new Persona();
         usuario1.setNombre("Messi");
         usuario1.setEdad(37);
-        usuario1.setTelefono(105456123);
+        usuario1.setTelefono(1059811454);
 
         Persona usuario2 = new Persona();
         usuario2.setNombre("Cristiano");
